@@ -99,7 +99,7 @@ analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-3P8JKPRH1E"
-    anonymize_ip         : false
+    anonymize_ip         : false  
 
 
 # Site Author
@@ -108,14 +108,14 @@ author:
   avatar           : "/assets/images/profileimage.jpeg"
   bio              : "**Future Data Analyst**"
   location         : "Somewhere, South Korea"
-  email            : "jangcoding77@gmail.com"
+  email            : # "jangcoding77@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "jangcoding77@gmail.com"
+      url: "mailto:jangcoding77@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,7 +127,7 @@ author:
       url: "https://github.com/jangsukyung"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/su_kyeong7/"
 
 # Site Footer
 footer:
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/jangsukyung"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/su_kyeong7/"
 
 
 # Reading Files
