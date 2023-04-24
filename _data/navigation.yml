@@ -23,17 +23,34 @@ docs:
 
       - title: "Tag"
         url: /tags/
-
-sidebar-category:
-  - title: "카테고리"
+  - title: "Test"
     children:
-      - title: "블로그"
-        url: "/blog"
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
-
+      - title: "Test"
+        url: /test/
+        
+sidebar-category:
+  - title: "Study"
+    children:
+      - title: "Python"
+        url: "/Python"
+      - title: "Theory"
+        url: "/Theory"
+  - title: "Kaggle"
+    children:
+      - title: "Kaggle"
+        url: "/Kaggle"
+      - title: "Practice"
+        url: "/Practice"
+  - title: "Project"
+    children:
+      - title: "Mini Python Project"
+        url: "/Mini-Python-Project"
+      - title: "Python Project"
+        url: "/Python-Project"
+  - title: "Test"
+    children:
+      - title: "Test"
+        url: "/Test"
 
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
