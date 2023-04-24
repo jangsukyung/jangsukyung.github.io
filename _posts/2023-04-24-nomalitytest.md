@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "정규성 검정(Nomality Test) 이론 공부"
+title:  "Study Normality Test Theory"
 categories: Theory
 tag: [Python, Study, Nomality-Test]
 toc: true

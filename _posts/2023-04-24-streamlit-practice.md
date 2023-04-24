@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Streamlit 웹 페이지 생성 연습하기"
+title:  "To practice creating a Streamlit web page"
 categories: Python
 tag: [Python, Streamlit]
 toc: true
