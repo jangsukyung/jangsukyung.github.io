@@ -81,7 +81,7 @@ axes[0].text(mu - sigma - 0.2, 23.6, r'$\sigma = ??$', size = 20, ha = 'right')
 axes[1].text(mu - sigma - 0.2, 23.6, r'$\sigma = ??$', size = 20, ha = 'right')
 ```
 
-![sample]("github\github_blog\jangsukyung.github.io\assets\images\sample.png")
+![sample](https://user-images.githubusercontent.com/130429032/234776449-0a330a55-6d02-43de-9b68-966f411dffcc.png)
 
 ## 추정
 
@@ -124,7 +124,7 @@ axes[1].set_frame_on(False)
 plt.show()
 ```
 
-![sample1]("github\github_blog\jangsukyung.github.io\assets\images\sample1.png")
+![sample1](https://user-images.githubusercontent.com/130429032/234776501-69a395db-be9e-4dd5-b0d7-f646016cc04b.png)
 
 ## 테스트
 
@@ -185,7 +185,7 @@ from pingouin import ttest
 ttest(df['grades'], 67.5)
 ```
 
-![sample2]("github\github_blog\jangsukyung.github.io\assets\images\Untitled 2.png")
+![sample2](https://user-images.githubusercontent.com/130429032/234776573-7a0a3211-15c7-4be8-bad7-f011e5c06b7b.png)
 
 ## one sample t-test의 가정
 
