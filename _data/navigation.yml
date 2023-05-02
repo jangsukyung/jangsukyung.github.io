@@ -33,24 +33,31 @@ sidebar-category:
     children:
       - title: "Python"
         url: "/Python"
+        category: "Python"
       - title: "Theory"
         url: "/Theory"
+        category : "Theory"
   - title: "Kaggle"
     children:
       - title: "Kaggle"
         url: "/Kaggle"
+        category: "Kaggle"
       - title: "Practice"
         url: "/Practice"
+        category: "Practice"
   - title: "Project"
     children:
       - title: "Mini Python Project"
         url: "/Mini-Python-Project"
+        category: "Mini-Python-Project"
       - title: "Python Project"
         url: "/Python-Project"
+        category: "Python-Project"
   - title: "Test"
     children:
       - title: "Test"
         url: "/Test"
+        category: "Test"
 
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

@@ -1,4 +1,13 @@
-# Exploring TIme Series plots: Beginners Guide
+---
+layout: single
+title:  "Exploring TIme Series plots: Beginners Guide"
+categories: Practice
+tag: [Python, Kaggle, Store, Sales, Practice]
+toc: true
+author_profile: true
+sidebar:
+    nav: "sidebar-category"
+---
 
 시계열 플롯 탐색: 초보자 가이드
 
