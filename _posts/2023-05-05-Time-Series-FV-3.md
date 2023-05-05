@@ -249,7 +249,7 @@ plt.show()
 - **‘y_deseason’**을 타겟 시계열로 복사합니다.
 - **‘make_lags()’** 함수를 사용하여 **‘ydeseason’** 에 대한 **‘lags = 4’**의 지연 시계열을 만듭니다.
 - **‘X_train’, ‘X_test’, ‘y_train’, ‘y_test’**로 데이터를 분할합니다. **‘test_size’**는 60으로 지정되어 있습니다.
-- **‘LinearRegression()’** 모델을 만들고 **‘X_train’, ‘y_train’** 으로 모델을 학습힙낟.
+- **‘LinearRegression()’** 모델을 만들고 **‘X_train’, ‘y_train’** 으로 모델을 학습합니다.
 - **‘y_train’**의 인덱스를 사용하여 모델을 사용하여 **‘y_train’**에 대한 예측값 **‘y_pred’**를 생성합니다.
 - **‘y_test’**의 인덱스를 사용하여 모델을 사용하여 **‘y_test’**에 대한 예측값 **‘y_fore’**를 생성합니다.
 - **‘y_train’, ‘y_test’, ‘y_pred’, ‘y_fore’**를 그래프로 그려줍니다.
