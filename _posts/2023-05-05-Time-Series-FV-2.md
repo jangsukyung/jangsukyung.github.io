@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "# Store Sales. Time Series Forecast & Visualization 2"
+title:  "Store Sales. Time Series Forecast & Visualization 2"
 categories: Practice
 tag: [Python, Kaggle, Store, Sales, Practice]
 toc: true
