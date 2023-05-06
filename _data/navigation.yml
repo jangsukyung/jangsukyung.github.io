@@ -58,7 +58,7 @@ sidebar-category:
     children:
       - title: "Mini Project"
         url: "/Mini-Project"
-        category: "Mini Project"
+        category: "Mini-Project"
       - title: "Project"
         url: "/Project"
         category: "Project"
@@ -66,12 +66,17 @@ sidebar-category:
     children:
       - title: "Book Report"
         url: "/Book-Report"
-        category: "Book Report"
+        category: "Book-Report"
   - title: "Lecture"
     children:
       - title: "Lecture Review"
         url: "/Lecture-Review"
         category: "Lecture-Review"
+  - title: "Algorithm Problem"
+    children:
+      - title: "Baekjoon"
+        url: "/Baekjoon"
+        category: "Baekjoon"
 
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
