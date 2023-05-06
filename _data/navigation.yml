@@ -44,7 +44,7 @@ sidebar-category:
     children:
       - title: "Overview & Data"
         url: "/Overview-and-Data"
-        category: "Overview & Data"
+        category: "Overview-and-Data"
       - title: "Transcription"
         url: "/Transcription"
         category: "Transcription"
