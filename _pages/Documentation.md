@@ -1,9 +1,9 @@
 ---
-title: "Kaggle"
+title: "Documentation"
 layout: archive
-permalink: /Kaggle
+permalink: /Documentation
 ---
 
 
-{% assign posts = site.categories.Kaggle %}
+{% assign posts = site.categories.Documentation %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

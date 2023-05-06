@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Store Sales. Time Series Forecast & Visualization 3"
-categories: Practice
-tag: [Python, Kaggle, Store, Sales, Practice]
+categories: Transcription
+tag: [Python, Kaggle, Store, Sales, Transcription]
 toc: true
 author_profile: true
 sidebar:

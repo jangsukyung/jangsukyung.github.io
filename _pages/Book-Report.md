@@ -1,9 +1,9 @@
 ---
-title: "Test"
+title: "Book Report"
 layout: archive
-permalink: /Test
+permalink: /Book-Report
 ---
 
 
-{% assign posts = site.categories.Test %}
+{% assign posts = site.categories.Book-Report %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

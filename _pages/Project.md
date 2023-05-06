@@ -1,9 +1,9 @@
 ---
-title: "Mini Python Project"
+title: "Project"
 layout: archive
-permalink: /Mini-Python-Project
+permalink: /Project
 ---
 
 
-{% assign posts = site.categories.Mini-Python-Project %}
+{% assign posts = site.categories.Project %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

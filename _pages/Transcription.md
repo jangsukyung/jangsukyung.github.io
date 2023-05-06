@@ -1,9 +1,9 @@
 ---
-title: "Practice"
+title: "Transcription"
 layout: archive
-permalink: /Practice
+permalink: /Transcription
 ---
 
 
-{% assign posts = site.categories.Practice %}
+{% assign posts = site.categories.Transcription %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Exploring TIme Series plots: Beginners Guide"
-categories: Practice
-tag: [Python, Kaggle, Store, Sales, Practice]
+categories: Transcription
+tag: [Python, Kaggle, Store, Sales, Transcription]
 toc: true
 author_profile: true
 sidebar:
