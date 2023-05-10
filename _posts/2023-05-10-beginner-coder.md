@@ -9,8 +9,6 @@ sidebar:
     nav: "sidebar-category"
 ---
 
-https://www.inflearn.com/course/%EC%BD%94%EB%94%A9-%EC%9E%85%EB%AC%B8%EC%9E%90-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88#curriculum
-
 # 1. 파이썬 다운로드 및 설치 하는 법 (윈도우)
 
 ## 파이썬 특징
